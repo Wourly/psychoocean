@@ -5,7 +5,7 @@ import numpy as np
 import plotly 
 import plotly.plotly as py
 import plotly.graph_objs as go
-plotly.tools.set_credentials_file(username='Wourly', api_key='ynOus3rUfBXLzn11FNII')
+plotly.tools.set_credentials_file(username='#####', api_key='#####')
 
 import dash
 from dash.dependencies import Input, Output
